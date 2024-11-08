@@ -1,0 +1,22 @@
+# github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3
+## explicit
+github.com/riobard/go-bloom
+# github.com/shadowsocks/go-shadowsocks2 v0.1.5
+## explicit; go 1.16
+github.com/shadowsocks/go-shadowsocks2
+github.com/shadowsocks/go-shadowsocks2/core
+github.com/shadowsocks/go-shadowsocks2/internal
+github.com/shadowsocks/go-shadowsocks2/nfutil
+github.com/shadowsocks/go-shadowsocks2/pfutil
+github.com/shadowsocks/go-shadowsocks2/shadowaead
+github.com/shadowsocks/go-shadowsocks2/socks
+# golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
+## explicit; go 1.11
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+# golang.org/x/sys v0.0.0-20191026070338-33540a1f6037
+## explicit; go 1.12
+golang.org/x/sys/cpu
